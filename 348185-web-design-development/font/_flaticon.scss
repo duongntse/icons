@@ -1,0 +1,239 @@
+    /*
+    Flaticon icon font: Flaticon
+    Creation date: 10/03/2017 08:02
+    */
+
+    @font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+    .fi:before{
+        display: inline-block;
+  font-family: "Flaticon";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+    }
+
+    .flaticon-101-analytics:before { content: "\f100"; }
+.flaticon-101-bar-chart:before { content: "\f101"; }
+.flaticon-101-bar-chart-1:before { content: "\f102"; }
+.flaticon-101-bar-chart-2:before { content: "\f103"; }
+.flaticon-101-bar-chart-3:before { content: "\f104"; }
+.flaticon-101-brain:before { content: "\f105"; }
+.flaticon-101-brain-1:before { content: "\f106"; }
+.flaticon-101-browser:before { content: "\f107"; }
+.flaticon-101-browser-1:before { content: "\f108"; }
+.flaticon-101-browser-2:before { content: "\f109"; }
+.flaticon-101-browser-3:before { content: "\f10a"; }
+.flaticon-101-browser-4:before { content: "\f10b"; }
+.flaticon-101-browser-5:before { content: "\f10c"; }
+.flaticon-101-browser-6:before { content: "\f10d"; }
+.flaticon-101-browser-7:before { content: "\f10e"; }
+.flaticon-101-chat:before { content: "\f10f"; }
+.flaticon-101-chat-1:before { content: "\f110"; }
+.flaticon-101-cloud-computing:before { content: "\f111"; }
+.flaticon-101-cloud-computing-1:before { content: "\f112"; }
+.flaticon-101-cloud-computing-10:before { content: "\f113"; }
+.flaticon-101-cloud-computing-11:before { content: "\f114"; }
+.flaticon-101-cloud-computing-12:before { content: "\f115"; }
+.flaticon-101-cloud-computing-13:before { content: "\f116"; }
+.flaticon-101-cloud-computing-14:before { content: "\f117"; }
+.flaticon-101-cloud-computing-15:before { content: "\f118"; }
+.flaticon-101-cloud-computing-16:before { content: "\f119"; }
+.flaticon-101-cloud-computing-2:before { content: "\f11a"; }
+.flaticon-101-cloud-computing-3:before { content: "\f11b"; }
+.flaticon-101-cloud-computing-4:before { content: "\f11c"; }
+.flaticon-101-cloud-computing-5:before { content: "\f11d"; }
+.flaticon-101-cloud-computing-6:before { content: "\f11e"; }
+.flaticon-101-cloud-computing-7:before { content: "\f11f"; }
+.flaticon-101-cloud-computing-8:before { content: "\f120"; }
+.flaticon-101-cloud-computing-9:before { content: "\f121"; }
+.flaticon-101-coding:before { content: "\f122"; }
+.flaticon-101-coding-1:before { content: "\f123"; }
+.flaticon-101-coding-2:before { content: "\f124"; }
+.flaticon-101-error:before { content: "\f125"; }
+.flaticon-101-file:before { content: "\f126"; }
+.flaticon-101-folder:before { content: "\f127"; }
+.flaticon-101-folder-1:before { content: "\f128"; }
+.flaticon-101-folder-2:before { content: "\f129"; }
+.flaticon-101-folder-3:before { content: "\f12a"; }
+.flaticon-101-folder-4:before { content: "\f12b"; }
+.flaticon-101-folder-5:before { content: "\f12c"; }
+.flaticon-101-folder-6:before { content: "\f12d"; }
+.flaticon-101-folder-7:before { content: "\f12e"; }
+.flaticon-101-headphone:before { content: "\f12f"; }
+.flaticon-101-headset:before { content: "\f130"; }
+.flaticon-101-hierarchical-structure:before { content: "\f131"; }
+.flaticon-101-idea:before { content: "\f132"; }
+.flaticon-101-laptop:before { content: "\f133"; }
+.flaticon-101-laptop-1:before { content: "\f134"; }
+.flaticon-101-laptop-10:before { content: "\f135"; }
+.flaticon-101-laptop-2:before { content: "\f136"; }
+.flaticon-101-laptop-3:before { content: "\f137"; }
+.flaticon-101-laptop-4:before { content: "\f138"; }
+.flaticon-101-laptop-5:before { content: "\f139"; }
+.flaticon-101-laptop-6:before { content: "\f13a"; }
+.flaticon-101-laptop-7:before { content: "\f13b"; }
+.flaticon-101-laptop-8:before { content: "\f13c"; }
+.flaticon-101-laptop-9:before { content: "\f13d"; }
+.flaticon-101-layout:before { content: "\f13e"; }
+.flaticon-101-layout-1:before { content: "\f13f"; }
+.flaticon-101-line-chart:before { content: "\f140"; }
+.flaticon-101-line-chart-1:before { content: "\f141"; }
+.flaticon-101-list:before { content: "\f142"; }
+.flaticon-101-location:before { content: "\f143"; }
+.flaticon-101-monitor:before { content: "\f144"; }
+.flaticon-101-mouse:before { content: "\f145"; }
+.flaticon-101-mouse-1:before { content: "\f146"; }
+.flaticon-101-network:before { content: "\f147"; }
+.flaticon-101-networking:before { content: "\f148"; }
+.flaticon-101-networking-1:before { content: "\f149"; }
+.flaticon-101-pie-chart:before { content: "\f14a"; }
+.flaticon-101-pie-chart-1:before { content: "\f14b"; }
+.flaticon-101-quality:before { content: "\f14c"; }
+.flaticon-101-responsive:before { content: "\f14d"; }
+.flaticon-101-ruler:before { content: "\f14e"; }
+.flaticon-101-search:before { content: "\f14f"; }
+.flaticon-101-server:before { content: "\f150"; }
+.flaticon-101-server-1:before { content: "\f151"; }
+.flaticon-101-server-2:before { content: "\f152"; }
+.flaticon-101-server-3:before { content: "\f153"; }
+.flaticon-101-settings:before { content: "\f154"; }
+.flaticon-101-settings-1:before { content: "\f155"; }
+.flaticon-101-settings-2:before { content: "\f156"; }
+.flaticon-101-settings-3:before { content: "\f157"; }
+.flaticon-101-settings-4:before { content: "\f158"; }
+.flaticon-101-shield:before { content: "\f159"; }
+.flaticon-101-shield-1:before { content: "\f15a"; }
+.flaticon-101-sitemap:before { content: "\f15b"; }
+.flaticon-101-smartphone:before { content: "\f15c"; }
+.flaticon-101-smartphone-1:before { content: "\f15d"; }
+.flaticon-101-speedometer:before { content: "\f15e"; }
+.flaticon-101-support:before { content: "\f15f"; }
+.flaticon-101-vector:before { content: "\f160"; }
+.flaticon-101-vector-1:before { content: "\f161"; }
+.flaticon-101-vector-2:before { content: "\f162"; }
+.flaticon-101-wifi:before { content: "\f163"; }
+    
+    $font-Flaticon-101-analytics: "\f100";
+    $font-Flaticon-101-bar-chart: "\f101";
+    $font-Flaticon-101-bar-chart-1: "\f102";
+    $font-Flaticon-101-bar-chart-2: "\f103";
+    $font-Flaticon-101-bar-chart-3: "\f104";
+    $font-Flaticon-101-brain: "\f105";
+    $font-Flaticon-101-brain-1: "\f106";
+    $font-Flaticon-101-browser: "\f107";
+    $font-Flaticon-101-browser-1: "\f108";
+    $font-Flaticon-101-browser-2: "\f109";
+    $font-Flaticon-101-browser-3: "\f10a";
+    $font-Flaticon-101-browser-4: "\f10b";
+    $font-Flaticon-101-browser-5: "\f10c";
+    $font-Flaticon-101-browser-6: "\f10d";
+    $font-Flaticon-101-browser-7: "\f10e";
+    $font-Flaticon-101-chat: "\f10f";
+    $font-Flaticon-101-chat-1: "\f110";
+    $font-Flaticon-101-cloud-computing: "\f111";
+    $font-Flaticon-101-cloud-computing-1: "\f112";
+    $font-Flaticon-101-cloud-computing-10: "\f113";
+    $font-Flaticon-101-cloud-computing-11: "\f114";
+    $font-Flaticon-101-cloud-computing-12: "\f115";
+    $font-Flaticon-101-cloud-computing-13: "\f116";
+    $font-Flaticon-101-cloud-computing-14: "\f117";
+    $font-Flaticon-101-cloud-computing-15: "\f118";
+    $font-Flaticon-101-cloud-computing-16: "\f119";
+    $font-Flaticon-101-cloud-computing-2: "\f11a";
+    $font-Flaticon-101-cloud-computing-3: "\f11b";
+    $font-Flaticon-101-cloud-computing-4: "\f11c";
+    $font-Flaticon-101-cloud-computing-5: "\f11d";
+    $font-Flaticon-101-cloud-computing-6: "\f11e";
+    $font-Flaticon-101-cloud-computing-7: "\f11f";
+    $font-Flaticon-101-cloud-computing-8: "\f120";
+    $font-Flaticon-101-cloud-computing-9: "\f121";
+    $font-Flaticon-101-coding: "\f122";
+    $font-Flaticon-101-coding-1: "\f123";
+    $font-Flaticon-101-coding-2: "\f124";
+    $font-Flaticon-101-error: "\f125";
+    $font-Flaticon-101-file: "\f126";
+    $font-Flaticon-101-folder: "\f127";
+    $font-Flaticon-101-folder-1: "\f128";
+    $font-Flaticon-101-folder-2: "\f129";
+    $font-Flaticon-101-folder-3: "\f12a";
+    $font-Flaticon-101-folder-4: "\f12b";
+    $font-Flaticon-101-folder-5: "\f12c";
+    $font-Flaticon-101-folder-6: "\f12d";
+    $font-Flaticon-101-folder-7: "\f12e";
+    $font-Flaticon-101-headphone: "\f12f";
+    $font-Flaticon-101-headset: "\f130";
+    $font-Flaticon-101-hierarchical-structure: "\f131";
+    $font-Flaticon-101-idea: "\f132";
+    $font-Flaticon-101-laptop: "\f133";
+    $font-Flaticon-101-laptop-1: "\f134";
+    $font-Flaticon-101-laptop-10: "\f135";
+    $font-Flaticon-101-laptop-2: "\f136";
+    $font-Flaticon-101-laptop-3: "\f137";
+    $font-Flaticon-101-laptop-4: "\f138";
+    $font-Flaticon-101-laptop-5: "\f139";
+    $font-Flaticon-101-laptop-6: "\f13a";
+    $font-Flaticon-101-laptop-7: "\f13b";
+    $font-Flaticon-101-laptop-8: "\f13c";
+    $font-Flaticon-101-laptop-9: "\f13d";
+    $font-Flaticon-101-layout: "\f13e";
+    $font-Flaticon-101-layout-1: "\f13f";
+    $font-Flaticon-101-line-chart: "\f140";
+    $font-Flaticon-101-line-chart-1: "\f141";
+    $font-Flaticon-101-list: "\f142";
+    $font-Flaticon-101-location: "\f143";
+    $font-Flaticon-101-monitor: "\f144";
+    $font-Flaticon-101-mouse: "\f145";
+    $font-Flaticon-101-mouse-1: "\f146";
+    $font-Flaticon-101-network: "\f147";
+    $font-Flaticon-101-networking: "\f148";
+    $font-Flaticon-101-networking-1: "\f149";
+    $font-Flaticon-101-pie-chart: "\f14a";
+    $font-Flaticon-101-pie-chart-1: "\f14b";
+    $font-Flaticon-101-quality: "\f14c";
+    $font-Flaticon-101-responsive: "\f14d";
+    $font-Flaticon-101-ruler: "\f14e";
+    $font-Flaticon-101-search: "\f14f";
+    $font-Flaticon-101-server: "\f150";
+    $font-Flaticon-101-server-1: "\f151";
+    $font-Flaticon-101-server-2: "\f152";
+    $font-Flaticon-101-server-3: "\f153";
+    $font-Flaticon-101-settings: "\f154";
+    $font-Flaticon-101-settings-1: "\f155";
+    $font-Flaticon-101-settings-2: "\f156";
+    $font-Flaticon-101-settings-3: "\f157";
+    $font-Flaticon-101-settings-4: "\f158";
+    $font-Flaticon-101-shield: "\f159";
+    $font-Flaticon-101-shield-1: "\f15a";
+    $font-Flaticon-101-sitemap: "\f15b";
+    $font-Flaticon-101-smartphone: "\f15c";
+    $font-Flaticon-101-smartphone-1: "\f15d";
+    $font-Flaticon-101-speedometer: "\f15e";
+    $font-Flaticon-101-support: "\f15f";
+    $font-Flaticon-101-vector: "\f160";
+    $font-Flaticon-101-vector-1: "\f161";
+    $font-Flaticon-101-vector-2: "\f162";
+    $font-Flaticon-101-wifi: "\f163";
